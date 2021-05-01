@@ -4,4 +4,4 @@
 
 1. Object Literal
 2. 'this' Keyword
-3. Factory & Constructor Pattern
+3. Factory & Constructor Patterns
