@@ -10,4 +10,4 @@
 5. Functions are Object
 6. Call, Apply, Bind Method
 7. Abstraction
-8. Getter & Setter
+8. Inheritance
