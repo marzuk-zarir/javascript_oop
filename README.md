@@ -11,8 +11,13 @@
 6. Call, Apply, Bind Method
 7. Abstraction
     - Getter Setter
-8. Inheritance
+8. Prototype
     - Property Descriptor
     - Multilevel Inheritance
     - Prototype
     - Instance members vs Prototype members
+    - HasOwnProperty, Object.keys, For in loop
+9. Inheritance
+    - Simple Inheritance
+    - Reset Constructor after Inheritance
+    - Super Call

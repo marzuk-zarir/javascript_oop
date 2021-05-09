@@ -10,19 +10,18 @@
  */
 
 // Constructor Members
-const Square = function (width, height) {
+const Square = function (width) {
     this.width = width
-    this.height = height
 }
 
 // Prototype Members
 Square.prototype = {
     draw: function () {
-        console.log(`My width is ${this.width} & height is ${this.height}`)
+        console.log(`My width is ${this.width}`)
     }
 }
 
-const sqr1 = new Square(30, 10)
-const sqr2 = new Square(100, 50)
+const sqr1 = new Square(30)
+const sqr2 = new Square(100)
 sqr1.draw()
 sqr2.draw()
