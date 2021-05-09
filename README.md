@@ -10,4 +10,9 @@
 5. Functions are Object
 6. Call, Apply, Bind Method
 7. Abstraction
+    - Getter Setter
 8. Inheritance
+    - Property Descriptor
+    - Multilevel Inheritance
+    - Prototype
+    - Instance members vs Prototype members

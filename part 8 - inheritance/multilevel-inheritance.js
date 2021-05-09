@@ -1,6 +1,7 @@
 /**
  * ? in js every primitive value and object type value inherit Object constructor
  * * people1 inherit Person constructor and Person constructor inherit Object Constructor
+ * * this prototypical chain is called multilevel inheritance
  */
 function Person(name, age) {
     this.name = name
