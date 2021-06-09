@@ -6,11 +6,13 @@
  * ? so we should reset after inheritance
  */
 
+// Vehicle
 function Vehicle() {}
 Vehicle.prototype.vehicleInfo = function () {
     console.log('General Vehicle method for every type')
 }
 
+// Car
 function Car(company) {
     this.company = company
 }

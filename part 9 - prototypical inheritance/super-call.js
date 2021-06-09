@@ -1,5 +1,5 @@
 /**
- *
+ * it helps to inherit prototype of other constructor
  * @param {*} extendObj - which want to extend
  * @param {*} inherit - from which constructor
  */
